@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131198167829",
+    "project_id": "virtualmeet-eb726",
+    "storage_bucket": "virtualmeet-eb726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131198167829:android:43aeea5e97d7268ad5971c",
+        "android_client_info": {
+          "package_name": "com.sayam.virtualmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131198167829-d0g9nn8jrs805t01ha9u7dfm583fkiqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNnFkwDPoH18SP07-8RefN-FxE9onbiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131198167829-d0g9nn8jrs805t01ha9u7dfm583fkiqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
